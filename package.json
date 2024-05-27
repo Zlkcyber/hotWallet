@@ -10,10 +10,10 @@
   "keywords": [
     "near"
   ],
-  "author": "Widiskel",
+  "author": "Zlkcyber",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Widiskel/near-hot-wallet-claimer.git"
+    "url": "https://github.com/Zlkcyber/hotWallet.git"
   },
   "license": "ISC",
   "dependencies": {

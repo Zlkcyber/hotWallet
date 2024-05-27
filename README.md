@@ -11,9 +11,11 @@ Near HOT Wallet claimer for automatic claiming HOT token using Near/Lava mainnet
 - run ```cp account-temp.js account.js``` and add ur wallet deails with this format ```accountID|privateKEY|calimDelayInHours``` , example ```test.near|akalsjfklasjfklasjfklasf|2```. it support multiple wallet
 so just write down like this
 ```
-test.near|akalsjfklasjfklasjfklasf|2
-test.near|akalsjfklasjfklasjfklasf|2
-test.near|akalsjfklasjfklasjfklasf|2
+export const acc = [
+    "test1.tg|PrivateKey1|2",
+    "test2.tg|PrivateKey2|2",
+    "test3.tg|PrivateKey3|2"
+];
 ```
 
 ## RUNNING
