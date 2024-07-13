@@ -3,6 +3,9 @@
 Near HOT Wallet claimer for automatic claiming HOT token using Near/Lava mainnet RPC.
 - you can change rpc on `rpc.js` if you want
 
+## update 
+- `git pull`
+  
 ## Setup
 - install nodejs.
 - clone project ```git clone https://github.com/Zlkcyber/hotWallet.git```
