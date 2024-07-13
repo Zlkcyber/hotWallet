@@ -26,5 +26,6 @@ Before your running this bot, make sure your hot wallet is at full storage to mi
 ## NOTE
 - please use new wallet for testing first
 
-
+## Donation
+- zlkcyber.near
 
