@@ -125,8 +125,7 @@ Status : Claiming...
       twisters.put(accountId, {
         text: `
 Account ID : ${accountId}
-Near Balance :${NearBalanceUser}
-Status : Error ${error}...
+Status : ${error.message} - ${error.cause ?? ""}...
 `,
       });
       await new Promise((resolve) => setTimeout(resolve, 5000));
